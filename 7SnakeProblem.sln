@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7SnakeProblem", "7SnakeProblem\7SnakeProblem.csproj", "{7B9EBC8E-37DB-4B1A-8AEF-B8FE7DDFF1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7SnakeProblemTests", "7SnakeProblemTests\7SnakeProblemTests.csproj", "{274F8ECD-326E-44B4-8292-CDF1C3C4ABDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOCs", "DOCs", "{FECED9F6-B0FB-4CC9-B911-E9FB2A78B85E}"
+	ProjectSection(SolutionItems) = preProject
+		7SnakeProblem.docx = 7SnakeProblem.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9EBC8E-37DB-4B1A-8AEF-B8FE7DDFF1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9EBC8E-37DB-4B1A-8AEF-B8FE7DDFF1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9EBC8E-37DB-4B1A-8AEF-B8FE7DDFF1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9EBC8E-37DB-4B1A-8AEF-B8FE7DDFF1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F8ECD-326E-44B4-8292-CDF1C3C4ABDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F8ECD-326E-44B4-8292-CDF1C3C4ABDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F8ECD-326E-44B4-8292-CDF1C3C4ABDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F8ECD-326E-44B4-8292-CDF1C3C4ABDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD5C4C6-FAC1-4186-92DC-30B409103BFE}
+	EndGlobalSection
+EndGlobal
